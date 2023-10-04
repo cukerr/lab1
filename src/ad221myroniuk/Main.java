@@ -94,7 +94,7 @@ public class Main
         System.out.println("Результат проверки массива arr2: " + result2); // Выведет false
         System.out.println("Результат проверки разделения массива arr3: " + result3); // Выведет true
 
-        // Вызов метода для игры FizzBuzz
+        // Вызов метода для игры FizzBuzz.
         fizzBuzz();
     }
 
